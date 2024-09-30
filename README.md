@@ -1,2 +1,3 @@
-# Project1
-Test plan for an online newspaper website 
+# Project1: Test plan for an online newspaper website 
+
+
