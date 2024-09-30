@@ -2,6 +2,8 @@
 
 This repository contains a list of all my completed projects.
 
+## The link leads to the collection of my projects [link](https://github.com/tram050902/Projects)
+
 ## Project List
 
 | Project name | Description                               | Tools used |
